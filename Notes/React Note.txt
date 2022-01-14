@@ -10,3 +10,5 @@
 * Props
 
 * There are many events like onclick, ondoubleclick, onsubmit etc.
+
+* .jsx file extension allows to use html code

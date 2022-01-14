@@ -1,0 +1,4 @@
+* rfc for react code emergence
+
+* These shortcuts are related to ES7 React/Redux vscode
+extension
