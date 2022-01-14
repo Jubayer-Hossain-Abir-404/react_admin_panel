@@ -1,0 +1,6 @@
+* npm install @mui/icons-material
+
+* npm install @material-ui/icons (The one I need for the project)
+
+* npm install @material-ui/core
+

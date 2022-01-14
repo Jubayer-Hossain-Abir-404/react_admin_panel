@@ -1,0 +1,13 @@
+* check the node version using
+	node -v (should be latest)
+
+* check the npm version
+	npm --version ( Should be more than 5)
+
+* for not public installation
+	npx create-react-app react-task-tracker
+
+* npx create-react-app .
+Creates react app in the current folder
+
+	

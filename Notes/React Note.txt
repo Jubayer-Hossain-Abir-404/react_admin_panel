@@ -1,0 +1,12 @@
+* npm start to start the dev server
+
+* Rather than using class in react className should be used
+
+* for -> htmlFor
+
+* App.js should have only single parent
+
+
+* Props
+
+* There are many events like onclick, ondoubleclick, onsubmit etc.
